@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<counties>
+	
+	<county>Choose One...</county>
+	<county>Antrim</county>
+	<county>Armagh</county>
+	<county>Carlow</county>
+	<county>Cavan</county>
+	<county>Clare</county>
+	<county>Cork</county>
+	<county>Derry</county>
+	<county>Donegal</county>
+	<county>Down</county>
+	<county>Dublin</county>
+	<county>Fermanagh</county>
+	<county>Galway</county>
+	<county>Kerry</county>
+	<county>Kildare</county>
+	<county>Kilkenny</county>
+	<county>Laois</county>
+	<county>Leitrim</county>
+	<county>Limerick</county>
+	<county>Longford</county>
+	<county>Louth</county>
+	<county>Mayo</county>
+	<county>Meath</county>
+	<county>Monaghan</county>
+	<county>Offaly</county>
+	<county>Roscommon</county>
+	<county>Sligo</county>
+	<county>Tipperary</county>
+	<county>Tyrone</county>
+	<county>Waterford</county>
+	<county>Westmeath</county>
+	<county>Wexford</county>
+	<county>Wicklow</county>
+	
+</counties>

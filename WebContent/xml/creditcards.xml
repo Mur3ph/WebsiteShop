@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cards>
+
+	<cardtype>American Express</cardtype>
+	<cardtype>Laser</cardtype>
+	<cardtype>Visa</cardtype>
+	<cardtype>MasterCard</cardtype>
+	<cardtype>Discover</cardtype>
+
+</cards>

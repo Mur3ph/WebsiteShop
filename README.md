@@ -3,7 +3,7 @@
 
 ----------
 
-## Interactive website using various technologies that I developed in 2012
+Interactive website using various technologies that I developed in 2012
 
 1. Java, JSP, JSTL
 2. MySQL, SQL, Triggers, Indexes, Audits, Designed and Developed Website Shop Database Schema, ER Diagrams, Database security (MD5 Encryption, SQL Injection)
@@ -18,7 +18,7 @@
 
 # Installation #
 
-## Online Shop is a java web application. Before running the Online Shop, you will additionally need to install/acquire:
+Online Shop is a java web application. Before running the Online Shop, you will additionally need to install/acquire:
 
 - JDK / or JRE
 - Eclipse IDE
@@ -28,25 +28,25 @@
 
 ----------
 
-## Java
+### Java
 
-[https://java.com/en/download/](https://java.com/en/download/ "How to install Java")
+[How to install Java](http://java.com/en/download/)
 
-## Eclipse
+### Eclipse
 
-[http://eclipse.org/downloads/](http://eclipse.org/downloads/ "How to install Eclipse IDE")
+[How to install Eclipse IDE](http://eclipse.org/downloads/ )
 
-### Import project into Eclipse IDE
-1.File 
-2.Import
-3.General
-4.Existing Projects into workspace
+Import project into Eclipse IDE
+1. File 
+2. Import
+3. General
+4. Existing Projects into workspace
 
-## Tomcat
+### Tomcat
 
-[https://www.youtube.com/watch?v=jOdCfW7-ybI](https://www.youtube.com/watch?v=jOdCfW7-ybI "How to install Tomcat server on Eclipse IDE")
+[How to install Tomcat server on Eclipse IDE](https://www.youtube.com/watch?v=jOdCfW7-ybI)
 
-## MySQL and MySQL Driver
+### MySQL and MySQL Driver
 
-[https://www.youtube.com/watch?v=2i4t-SL1VsU](https://www.youtube.com/watch?v=2i4t-SL1VsU "How to install MySQL and configure MySQL Driver")
+[How to install MySQL and configure MySQL Driver](https://www.youtube.com/watch?v=2i4t-SL1VsU)
 

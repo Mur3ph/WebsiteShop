@@ -37,10 +37,12 @@ Online Shop is a java web application. Before running the Online Shop, you will 
 [How to install Eclipse IDE](http://eclipse.org/downloads/ )
 
 Import project into Eclipse IDE
+
 1. File 
 2. Import
 3. General
 4. Existing Projects into workspace
+5. Navigate to where you downloaded the project and install
 
 ### Tomcat
 
